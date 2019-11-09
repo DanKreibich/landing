@@ -1,0 +1,11 @@
+.button-big{
+  padding: 20px 50px;
+  border: black 3px dotted;
+  color: black;
+  transition: 0.7s;
+}
+
+.button-big:hover{
+  border: red 3px solid;
+  color: red;
+}
